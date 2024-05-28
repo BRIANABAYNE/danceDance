@@ -5,8 +5,9 @@
 //  Created by Briana Bayne on 5/28/24.
 //
 
-import SwiftUI
 import MusicKit
+import SwiftUI
+
 
 struct AlbumsView: View {
     @State var songs = [Album]()
