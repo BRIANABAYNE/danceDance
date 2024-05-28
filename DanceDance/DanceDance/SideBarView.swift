@@ -8,6 +8,7 @@
 import SwiftUI
 
 struct SideBarView: View {
+   
     var body: some View {
         List (sidebarItems) { item in
             NavigationLink(value: item) {

@@ -13,11 +13,10 @@ struct Album: Identifiable, Hashable {
     var image: String
     var title: String
     var subtitle: String
+    var imageURL : URL?
     
 }
 
 let albums: [Album] = [
-
-
 
 ]

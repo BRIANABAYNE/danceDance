@@ -12,8 +12,7 @@ struct SideBarItem: Identifiable, Hashable {
     var id = UUID()
     var name: String
     var icon: String
-//    let imageURL: URL?
-   
+    
 }
 
 
