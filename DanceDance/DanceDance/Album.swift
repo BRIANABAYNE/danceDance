@@ -7,7 +7,7 @@
 
 import Foundation
 
-struct Album: Identifiable {
+struct Album: Identifiable, Hashable {
     
     var id = UUID()
     var image: String

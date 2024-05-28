@@ -10,6 +10,7 @@
 		3A52218C2C0295DD00388BBF /* SideBarItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A52218B2C0295DD00388BBF /* SideBarItem.swift */; };
 		3A52218E2C029EF200388BBF /* SideBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A52218D2C029EF200388BBF /* SideBarView.swift */; };
 		3A5221922C02A21A00388BBF /* Album.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A5221912C02A21A00388BBF /* Album.swift */; };
+		3A5221942C0649A900388BBF /* AlbumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A5221932C0649A900388BBF /* AlbumsView.swift */; };
 		3AF7CC0A2BFD002E009A9782 /* RealityKitContent in Frameworks */ = {isa = PBXBuildFile; productRef = 3AF7CC092BFD002E009A9782 /* RealityKitContent */; };
 		3AF7CC0C2BFD002E009A9782 /* DanceDanceApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AF7CC0B2BFD002E009A9782 /* DanceDanceApp.swift */; };
 		3AF7CC0E2BFD002E009A9782 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AF7CC0D2BFD002E009A9782 /* ContentView.swift */; };
@@ -21,6 +22,7 @@
 		3A52218B2C0295DD00388BBF /* SideBarItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SideBarItem.swift; sourceTree = "<group>"; };
 		3A52218D2C029EF200388BBF /* SideBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SideBarView.swift; sourceTree = "<group>"; };
 		3A5221912C02A21A00388BBF /* Album.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Album.swift; sourceTree = "<group>"; };
+		3A5221932C0649A900388BBF /* AlbumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlbumsView.swift; sourceTree = "<group>"; };
 		3AF7CC042BFD002E009A9782 /* DanceDance.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DanceDance.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3AF7CC082BFD002E009A9782 /* RealityKitContent */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = RealityKitContent; sourceTree = "<group>"; };
 		3AF7CC0B2BFD002E009A9782 /* DanceDanceApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DanceDanceApp.swift; sourceTree = "<group>"; };
@@ -78,6 +80,7 @@
 				3AF7CC112BFD0030009A9782 /* Preview Content */,
 				3A52218B2C0295DD00388BBF /* SideBarItem.swift */,
 				3A52218D2C029EF200388BBF /* SideBarView.swift */,
+				3A5221932C0649A900388BBF /* AlbumsView.swift */,
 			);
 			path = DanceDance;
 			sourceTree = "<group>";
@@ -173,6 +176,7 @@
 			files = (
 				3A5221922C02A21A00388BBF /* Album.swift in Sources */,
 				3AF7CC0E2BFD002E009A9782 /* ContentView.swift in Sources */,
+				3A5221942C0649A900388BBF /* AlbumsView.swift in Sources */,
 				3A52218E2C029EF200388BBF /* SideBarView.swift in Sources */,
 				3A52218C2C0295DD00388BBF /* SideBarItem.swift in Sources */,
 				3AF7CC0C2BFD002E009A9782 /* DanceDanceApp.swift in Sources */,
